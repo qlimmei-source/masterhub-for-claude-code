@@ -1,0 +1,10 @@
+{
+  "name": "no-nested-agents",
+  "version": "1.4.1",
+  "description": "Helpers cannot start their own helpers: only the main chat starts agents.",
+  "author": {
+    "name": "Alex Klim"
+  },
+  "repository": "https://github.com/qlimmei-source/masterhub-for-claude-code",
+  "license": "MIT"
+}

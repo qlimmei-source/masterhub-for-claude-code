@@ -1,0 +1,22 @@
+{
+  "name": "masterhub",
+  "version": "1.4.1",
+  "description": "A main chat for your project in Claude Code: one chat takes every request and hands the work to helpers, with folder scheme, handoffs, approvals, edit batches and review by critics.",
+  "author": {
+    "name": "Alex Klim"
+  },
+  "repository": "https://github.com/qlimmei-source/masterhub-for-claude-code",
+  "license": "MIT",
+  "keywords": [
+    "main-chat",
+    "orchestration",
+    "handoff",
+    "project-structure"
+  ],
+  "displayName": "MasterHub",
+  "dependencies": [
+    "blocks",
+    "chat-topic",
+    "no-nested-agents"
+  ]
+}

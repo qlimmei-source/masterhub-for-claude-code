@@ -1,0 +1,11 @@
+{
+  "name": "blocks",
+  "version": "1.4.1",
+  "description": "Each block of Claude's reply gets a colored badge by importance. Each question gets an answer field. /blocks turns them on and off.",
+  "author": {
+    "name": "Alex Klim"
+  },
+  "repository": "https://github.com/qlimmei-source/masterhub-for-claude-code",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

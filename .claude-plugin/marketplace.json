@@ -1,0 +1,32 @@
+{
+  "name": "masterhub",
+  "description": "MasterHub for Claude Code: one main chat, colored badges, a tidy folder scheme, and helpers that stay under control.",
+  "owner": {
+    "name": "Alex Klim"
+  },
+  "metadata": {
+    "version": "1.4.1"
+  },
+  "plugins": [
+    {
+      "name": "masterhub",
+      "source": "./plugins/masterhub",
+      "description": "The whole set: the /hub main chat, /nextchat, /go, /ready, /council, /interview, /graphic-design, /motion, and the three mods below."
+    },
+    {
+      "name": "blocks",
+      "source": "./plugins/blocks",
+      "description": "Colored badges in Claude's replies, and an answer field under each question."
+    },
+    {
+      "name": "chat-topic",
+      "source": "./plugins/chat-topic",
+      "description": "The chat's topic under the input box and automatic names for the main chat."
+    },
+    {
+      "name": "no-nested-agents",
+      "source": "./plugins/no-nested-agents",
+      "description": "Helpers cannot start their own helpers."
+    }
+  ]
+}

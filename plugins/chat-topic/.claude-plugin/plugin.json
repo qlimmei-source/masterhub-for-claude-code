@@ -1,0 +1,10 @@
+{
+  "name": "chat-topic",
+  "version": "1.4.1",
+  "description": "Shows the chat's topic under the input box, from the line 'Chat: <Topic>.', from /hub, or from /topic <topic>. /hub names the chat MasterHub <PROJECT>; /nextchat in that chat renames it OLD MasterHub.",
+  "author": {
+    "name": "Alex Klim"
+  },
+  "repository": "https://github.com/qlimmei-source/masterhub-for-claude-code",
+  "license": "MIT"
+}
